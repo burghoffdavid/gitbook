@@ -30,7 +30,7 @@ export const de = {
     table_of_contents_button_label: 'Inhaltsverzeichnis öffnen',
     cookies_title: 'Cookies',
     cookies_prompt:
-        'Diese Website verwendet Cookies, um ihre Dienste bereitzustellen und den Datenverkehr zu analysieren. Durch das Surfen auf dieser Website akzeptieren Sie die ${1}.',
+        'Diese Website verwendet Cookies, um ihre Dienste bereitzustellen und den Datenverkehr zu analysieren. Durch die Nutzung dieser Website akzeptieren Sie die ${1}.',
     cookies_prompt_privacy: 'Datenschutzrichtlinie',
     cookies_accept: 'Akzeptieren',
     cookies_reject: 'Ablehnen',
